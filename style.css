@@ -1,0 +1,10 @@
+.banner-image{
+    width: 1440px;
+    height: 580px;
+}
+.group-background{
+    background-color: rgba(30, 64, 128, 0.63);
+}
+.banner-view{
+    width: calc(100vh - 80px);
+}
