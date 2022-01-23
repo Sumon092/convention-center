@@ -3,8 +3,11 @@
     height: 580px;
 }
 .group-background{
-    background-color: rgba(30, 64, 128, 0.63);
+    background-color: rgba(30, 64, 128, 0.459);
 }
 .banner-view{
     width: calc(100vh - 80px);
+}
+.chose-plan-link{
+    background-color: rgba(248, 248, 247, 0.507);
 }
